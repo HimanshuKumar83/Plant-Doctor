@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Dataset (very large)
+dataset/
+
+# Trained models
+models/
+*.keras
+
+# Uploads
+uploads/
+
+# Environment variables & API keys
+.env
+api_keys/
+
+# OS files
+.DS_Store
+Thumbs.db
