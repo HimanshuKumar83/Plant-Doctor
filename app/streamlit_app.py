@@ -16,7 +16,7 @@ st.markdown("""
 This system will:
 - 📷 Detect plant disease using CNN  
 - 🌦 Analyze real-time weather impact  
-- 💊 Recommend Organic + Chemical group treatment  
+- 💊 Recommend Organic + Chemical group treatment 
 - 🌍 Auto-detect user location  
 - 🔄 Works offline if Gemini API fails  
 """)

@@ -1,0 +1,15 @@
+.git
+.gitignore
+.env
+venv
+.venv
+__pycache__
+*.pyc
+dataset
+app/uploads
+uploads
+frontend/node_modules
+frontend/dist
+models/plant_disease_cnn.keras
+models/plant_disease_cnn_final.keras
+.vscode

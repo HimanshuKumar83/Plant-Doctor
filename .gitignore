@@ -8,9 +8,10 @@ venv/
 # Dataset (very large)
 dataset/
 
-# Trained models
-models/
+# Trained models (ignore large .keras files, allow compact .tflite for deployment)
 *.keras
+models/*
+!models/plant_disease_cnn.tflite
 
 # Uploads
 uploads/
@@ -19,6 +20,7 @@ uploads/
 .env
 api_keys/
 
-# OS files
+# OS & IDE files
 .DS_Store
 Thumbs.db
+.vscode/

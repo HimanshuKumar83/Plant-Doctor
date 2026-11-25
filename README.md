@@ -4,7 +4,6 @@ An end-to-end **AI-powered plant disease detection system** that identifies crop
 
 This project focuses on solving a **real-world agricultural problem** by combining **Deep Learning, Weather Intelligence, and Generative AI**.
 
----
 
 ## 🚀 Key Features
 

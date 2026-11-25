@@ -6,3 +6,6 @@ pillow
 google-generativeai
 python-dotenv
 requests
+fastapi
+uvicorn
+python-multipart
